@@ -1,1 +1,1 @@
-# Curso_de_lenguajes_de_programaci-n
+# Curso_de_lenguajes_de_programación
